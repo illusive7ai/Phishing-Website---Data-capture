@@ -64,9 +64,6 @@ If you ever get sent a page like this:
 Apache
 Use this code only for educational or authorized security testing.
 
-🧠 Want to make a real YouTube WatchTime tool?
-Hit me up. We can build something with the YouTube Data API v3 that actually tracks real watch time — no sneaky captures. 👯‍♀️
-
 
 
 ## Project Structure
