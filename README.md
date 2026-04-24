@@ -3,6 +3,10 @@ This project is a **data capture simulation** disguised as a "4000 YouTube Watch
 
 It collects a scary amount of user data — from location to clipboard to screen captures — and sends it to a **Telegram bot**.
 
+
+### Main Page
+![Main Offer Page](main.jpg)
+
 ## What the Code Actually Does
 
 When someone clicks *"Complete Verification"*, here's what happens:
@@ -47,6 +51,9 @@ The bot receives:
 
 
 
+### Telegram Bot Receiving Data
+![Telegram Bot](telegram.jpg)
+
 ## How to Protect Yourself
 If you ever get sent a page like this:
 
@@ -79,4 +86,8 @@ You can run this locally, but **only on your own device or with explicit consent
 ```bash
 # Just open the file in a browser
 open index.html
+```
+
+## Link to the website
+https://phishing-website-data-capture-9br5s41qc-illusive7ais-projects.vercel.app/
 
