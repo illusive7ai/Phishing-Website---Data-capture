@@ -52,7 +52,7 @@ The bot receives:
 
 
 ### Telegram Bot Receiving Data
-![Telegram Bot](telegram.jpg)
+![Telegram Bot](telegram.jpeg)
 
 ## How to Protect Yourself
 If you ever get sent a page like this:
