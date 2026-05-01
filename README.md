@@ -1,4 +1,4 @@
-# Phishing-Website---Data-capture
+# Phishing-Website---Data-capture.
 This project is a **data capture simulation** disguised as a "4000 YouTube WatchTime hours" offer.
 
 It collects a scary amount of user data — from location to clipboard to screen captures — and sends it to a **Telegram bot**.
